@@ -1,0 +1,31 @@
+h1 {
+  color: black;
+  background-color: red;
+}
+/* hexadecimal */
+h2 {
+  color: #00ff00;
+  background-color: #ffa500;
+}
+/* hexadecimal shorthand */
+h3 {
+  color: #f90;
+  background-color: blue;
+}
+/* hexadecimal  w/ transparancy */
+h4 {
+  color: #00ff00cc;
+  background-color: indigo;
+}
+/* hexadecimal shorthand w/ transparency */
+h5 {
+  color: #00fc;
+}
+/* RGB */
+h6 {
+  color: rgb(205, 241, 5);
+}
+/*RGBA  */
+p {
+  color: rgba(117, 247, 117, 0.7);
+}
